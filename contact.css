@@ -1,0 +1,44 @@
+
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: lightblue;
+  }
+  
+  form {
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: lightgray;
+    border: 1px solid black;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid black;
+    color: white;
+    cursor: pointer;
+  }
+  This code creates a simple contact page with a form for users to fill out their name, email, and message. The styling makes use of CSS to create a visually appealing layout and adds some basic styling to the form elements.
+  
+  
+  
+  
+  
